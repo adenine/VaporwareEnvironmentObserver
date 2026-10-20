@@ -1,0 +1,7 @@
+PyQt6>=6.6.0
+requests>=2.31.0
+paho-mqtt>=2.0.0
+
+# macOS-only: on-device GPS/location via CoreLocation
+pyobjc-framework-Cocoa>=12.2.1
+pyobjc-framework-CoreLocation>=12.2.1

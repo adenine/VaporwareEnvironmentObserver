@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+
+# Local Claude Code permissions (machine-specific paths)
+.claude/settings.local.json
+
+# Session recordings contain precise GPS coordinates
+Sessions/*
+!Sessions/.gitkeep
